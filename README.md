@@ -1,0 +1,2 @@
+# youtube_python
+研究者ゲンキのYouTube動画で使用するプログラムファイル
