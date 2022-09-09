@@ -1,2 +1,2 @@
 # youtube_python
-研究者ゲンキのYouTube動画で使用するプログラムファイル
+研究者ゲンキの[YouTubeチャンネル](https://www.youtube.com/channel/UC0UnEjW_QUMHqjvQXYJ3WhQ)で作成したPythonのプログラムファイル（Jupyter）です．
